@@ -1,4 +1,4 @@
-# İTÜ APİS AR-GE 10B | TÜRKSAT Model Uydu Yarışması 2021 – Uçuş Yazılımı ve Teknik Belgeler
+# İTÜ APİS AR-GE 10B | TÜRKSAT Model Uydu Yarışması 2021 – Uçuş Yazılımı ve Raporlar
 
 Bu depo, İstanbul Teknik Üniversitesi APİS AR-GE 10B Takımı'nın **TÜRKSAT Model Uydu Yarışması 2021** kapsamında geliştirdiği uçuş yazılımı, otonom kontrol algoritması ve yarışma sürecinde hazırlanan teknik raporları içermektedir. 
 
